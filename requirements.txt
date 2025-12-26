@@ -1,0 +1,10 @@
+pandas
+numpy
+regex
+emoji
+matplotlib
+wordcloud
+streamlit
+python-dateutil
+dateparser
+textblob    
